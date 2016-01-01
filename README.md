@@ -22,5 +22,7 @@ Usados os dados do último senso do IBGE, apresento a distribuição da populaç
 ![](http://imguol.com/c/noticias/2013/08/29/populacao-brasil-ibge---mapa-1377787099605_600x631.jpg)
 
 
-Abrange na população brasileira uma forte dependência, quero dizer que menos pessoas estarão aptas a trabalhar, sendo sustentadas por estes idosos com suas aposentadorias
+Abrange na população brasileira uma forte dependência, quero dizer que menos pessoas estarão aptas a trabalhar, sendo sustentadas por estes idosos com suas aposentadorias, pessoas em idade ativas (dos 15 aos 64 anos) após 2020 já haverá uma forte dependência dos idosos na economia, exemplificada no gráfico abaixo.
+
+![](http://www2.planalto.gov.br/noticias/2015/05/acompanhe-a-evolucao-demografica-no-brasil)
 
