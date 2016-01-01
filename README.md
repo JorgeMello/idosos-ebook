@@ -4,6 +4,8 @@ A quantidade de idosos vai duplicar no mundo até o ano de 2050.
 
 No Brasil quase triplicará, a porcentagem atual é de 12,5% de idosos, deve alcançar os 30% até a metade do século.
 
+![](http://imguol.com/c/infograficos/2013/noticias/pnad/piramide_etaria.jpg)
+
 O crescimento dos idosos reflete o comportamento da população brasileira nas últimas décadas, que está com uma taxa de natalidade abaixo da taxa de reposição (exemplo: Enquanto a expectativa de vida aumenta, a taxa de natalidade diminui, quero dizer que nascem menos crianças que o necessário para repor os pais).
 
 Com o aumento na expectativa de vida, vem o alerta: viver mais não significa viver melhor.
