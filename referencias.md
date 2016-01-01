@@ -25,5 +25,8 @@ http://scielo.iec.pa.gov.br/scielo.php?pid=S1679-49742004000400004&script=sci_ar
 Idoso. Doença Cardíaca e Comorbidades.
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0066-782X2002001500011
 
+Como conseguir acréscimo de 25% na aposentadoria de idosos com Alzheimer e outras doenças.
+http://rmonjardim.jusbrasil.com.br/noticias/201488623/como-conseguir-acrescimo-de-25-na-aposentadoria-de-idosos-com-alzheimer-e-outras-doencas
+
 
 
