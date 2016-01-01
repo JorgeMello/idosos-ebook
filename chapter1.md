@@ -8,3 +8,8 @@ Eu acredito que o maior mal será entre outros a depressão.
 Demais doenças:
 
 ![](http://blog.newtonpaiva.br/pos/wp-content/uploads/2012/11/E6-FARM-30-GRAFICO-1.jpg)
+
+Gráfico 2
+
+![](http://www.novafapi.com.br/sistemas/revistainterdisciplinar/v4n4/imagens/13c.png)
+Fonte: http://www.novafapi.com.br/sistemas/revistainterdisciplinar
