@@ -22,4 +22,5 @@ Usados os dados do último senso do IBGE, apresento a distribuição da populaç
 ![](http://imguol.com/c/noticias/2013/08/29/populacao-brasil-ibge---mapa-1377787099605_600x631.jpg)
 
 
+Abrange na população brasileira uma forte dependência, quero dizer que menos pessoas estarão aptas a trabalhar, sendo sustentadas por estes idosos com suas aposentadorias
 
