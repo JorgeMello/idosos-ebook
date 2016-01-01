@@ -20,3 +20,5 @@ Fonte: http://www.novafapi.com.br/sistemas/revistainterdisciplinar
 Artigo: Tendências da mortalidade entre idosos brasileiros (1980 - 2000)
 ![](http://scielo.iec.pa.gov.br/img/revistas/ess/v13n4/4a04t6.gif)
 
+Artigo: Idoso. Doença Cardíaca e Comorbidades
+![](http://www.scielo.br/img/fbpe/abc/v79n6/13766q1.gif)
