@@ -7,6 +7,9 @@ Número de idosos quase triplicará no Brasil até 2050, afirma OMS. http://zh.c
 
 O NÚMERO DE IDOSOS DEVERÁ AUMENTAR NO BRASIL. http://brasilescola.uol.com.br/brasil/o-numero-idosos-devera-aumentar-no-brasil.htm
 
+Governo federal estuda alternativas para assegurar sustentabilidade à previdência social.
+http://www2.planalto.gov.br/noticias/2015/05/governo-federal-estuda-alternativas-para-assegurar-sustentabilidade-a-previdencia-social
+
 Evolução demográfica no Brasil.
 http://www2.planalto.gov.br/noticias/2015/05/acompanhe-a-evolucao-demografica-no-brasil
 
