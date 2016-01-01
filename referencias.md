@@ -28,5 +28,7 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0066-782X2002001500011
 Como conseguir acréscimo de 25% na aposentadoria de idosos com Alzheimer e outras doenças.
 http://rmonjardim.jusbrasil.com.br/noticias/201488623/como-conseguir-acrescimo-de-25-na-aposentadoria-de-idosos-com-alzheimer-e-outras-doencas
 
+Plano de atenção ao idoso.
+http://pt.slideshare.net/EvailsonSantos/plano-de-ateno-ao-idoso
 
 
