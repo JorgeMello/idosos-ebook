@@ -17,5 +17,9 @@ associados a doenças, dependência de cuidados especiais e deficiências.
 
 Visamos a promoção e proteção à saúde ao idoso, assim como formar profissionais da saúde que tenham os conhecimentos fundamentais a respeito das peculiaridades do envelhecimento, como mudanças físicas, sociais e psíquicas, para que melhores condições de saúde e cuidado sejam oferecidas a essa população (atualmente carente).
 
+Usados os dados do último senso do IBGE, apresento a distribuição da população brasileira.
+
+http://imguol.com/c/noticias/2013/08/29/populacao-brasil-ibge---mapa-1377787099605_600x631.jpg
+
 
 
