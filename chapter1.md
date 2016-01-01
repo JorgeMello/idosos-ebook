@@ -17,3 +17,5 @@ Gráfico 2
 ![](http://www.novafapi.com.br/sistemas/revistainterdisciplinar/v4n4/imagens/13c.png)
 Fonte: http://www.novafapi.com.br/sistemas/revistainterdisciplinar
 
+Artigo: Tendências da mortalidade entre idosos brasileiros (1980 - 2000)
+![](http://scielo.iec.pa.gov.br/img/revistas/ess/v13n4/4a04t6.gif)
