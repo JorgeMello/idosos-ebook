@@ -18,7 +18,7 @@ associados a doenças, dependência de cuidados especiais e deficiências.
 
 A expectativa de vida cresce de acordo com os anos, veja a tabela:
 
-EXPECTATIVA DE VIDA AO NASCER - 2000/2060
+**EXPECTATIVA DE VIDA AO NASCER entre os anos de 2000 até 2060**
 
 | Ano de Nascimento | Expectativa de vida (em anos) |
 | -- | -- |
