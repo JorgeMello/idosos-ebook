@@ -15,6 +15,19 @@ teria uma média de 65 anos com qualidade de vida,
 sendo os últimos 10 
 associados a doenças, dependência de cuidados especiais e deficiências.
 
+A expectativa de vida cresce de acordo com os anos, veja a tabela:
+
+EXPECTATIVA DE VIDA AO NASCER - 2000/2060
+
+2000	69,8 anos
+2010	73,9 anos
+2020	76,7 anos
+2030	78,6 anos
+2040	79,9 anos
+2050	80,7 anos
+2060	81,2 anos
+Fonte: IBGE
+
 Visamos a promoção e proteção à saúde ao idoso, assim como formar profissionais da saúde que tenham os conhecimentos fundamentais a respeito das peculiaridades do envelhecimento, como mudanças físicas, sociais e psíquicas, para que melhores condições de saúde e cuidado sejam oferecidas a essa população (atualmente carente).
 
 Usados os dados do último senso do IBGE, apresento a distribuição da população brasileira.
