@@ -3,7 +3,7 @@
 ![](http://www.asdner.org.br/new/images/stories/Dilma/idosos_russia1.jpg)
 A **quantidade de idosos vai duplicar no mundo até o ano de 2050**.
 
-No Brasil quase triplicará, a porcentagem atual é de 12,6% de idosos, deve alcançar os 30% até a metade do século.
+**No Brasil quase triplicará**, a porcentagem atual é de 12,6% de idosos e **deve alcançar os 30% até a metade do século**.
 
 ![](http://imguol.com/c/infograficos/2013/noticias/pnad/piramide_etaria.jpg)
 
