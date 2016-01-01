@@ -26,3 +26,7 @@ Artigo: Idoso. Doença Cardíaca e Comorbidades
 Doença: Alzheimer
 
 ![](http://imgs.jusbrasil.com/publications/noticias/images/mal-de-alzheimer1-jpg.jpg)
+
+
+Doenças Crônicas:
+![](http://image.slidesharecdn.com/planodeatenoaoidoso-140721070023-phpapp02/95/plano-de-ateno-ao-idoso-8-638.jpg?cb=1405926045)
