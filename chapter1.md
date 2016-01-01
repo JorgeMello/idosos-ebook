@@ -32,9 +32,11 @@ Doenças Crônicas:
 
 **Segundo o Ministério da Saúde as doenças mais comuns apresentadas por idosos são:**
 
-Doenças Cardiovasculares: Infarto, Angina, Insuficiência Cardíaca
+Doenças Cardiovasculares: 
+Infarto, Angina, Insuficiência Cardíaca
 Fatores de risco: Pouca atividade física (sedentarismo), fumo, diabetes, alta taxa de gordura no sangue (colesterol) e obesidade (gordura). 
-Sintomas: Falta de ar, dor no peito, inchaço, palpitações.
+Sintomas: 
+Falta de ar, dor no peito, inchaço, palpitações.
 Prevenção: Praticar atividade física de forma sistemática, não fumar e controlar o peso, colesterol e a diabetes.
 
 Derrames (Acidente Vascular Cerebral - AVC) 
