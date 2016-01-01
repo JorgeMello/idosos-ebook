@@ -31,4 +31,7 @@ http://rmonjardim.jusbrasil.com.br/noticias/201488623/como-conseguir-acrescimo-d
 Plano de atenção ao idoso.
 http://pt.slideshare.net/EvailsonSantos/plano-de-ateno-ao-idoso
 
+Terceira Idade - Principais Doenças
+http://www.saudeemmovimento.com.br/conteudos/conteudo_exibe1.asp?cod_noticia=90
+
 
