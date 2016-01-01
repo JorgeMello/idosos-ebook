@@ -16,4 +16,7 @@ http://www2.planalto.gov.br/noticias/2015/05/acompanhe-a-evolucao-demografica-no
 Demonstrativos da polulação brasileira.
 http://www.ibge.gov.br/home/
 
+Perfil de idosos assistidos por equipe da Estratégia Saúde da Família em Teresina, Piauí.
+http://www.novafapi.com.br/sistemas/revistainterdisciplinar/v4n4/pesquisa/p6_v4n4.html
+
 
