@@ -19,7 +19,7 @@ Visamos a promoção e proteção à saúde ao idoso, assim como formar profissi
 
 Usados os dados do último senso do IBGE, apresento a distribuição da população brasileira.
 
-http://imguol.com/c/noticias/2013/08/29/populacao-brasil-ibge---mapa-1377787099605_600x631.jpg
+![](http://imguol.com/c/noticias/2013/08/29/populacao-brasil-ibge---mapa-1377787099605_600x631.jpg)
 
 
 
