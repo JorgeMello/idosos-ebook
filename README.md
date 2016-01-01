@@ -19,6 +19,15 @@ A expectativa de vida cresce de acordo com os anos, veja a tabela:
 
 EXPECTATIVA DE VIDA AO NASCER - 2000/2060
 
+| Ano de Nascimento | Expectativa de vida (em anos) |
+| -- | -- |
+| 0:2 | 1:2 |
+| 0:3 | 1:3 |
+| 0:4 | 1:4 |
+| 0:5 | 1:5 |
+| 0:6 | 1:6 |
+| 0:7 | 1:7 |
+
 2000	69,8 anos
 2010	73,9 anos
 2020	76,7 anos
