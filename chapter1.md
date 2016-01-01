@@ -13,3 +13,4 @@ Gráfico 2
 
 ![](http://www.novafapi.com.br/sistemas/revistainterdisciplinar/v4n4/imagens/13c.png)
 Fonte: http://www.novafapi.com.br/sistemas/revistainterdisciplinar
+
