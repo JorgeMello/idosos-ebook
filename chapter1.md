@@ -2,7 +2,7 @@
 
 ![](http://www.cmm.am.gov.br/wp-content/uploads/2014/04/CMM-AUDIENCIA-PUBLICA_ROBERVALDO-ROCHA1.jpg)
 
-Doenças principais da idade avançada:
+Doenças **principais da idade avançada**:
 
 Eu acredito que o maior mal será entre outros a depressão.
 
