@@ -25,4 +25,4 @@ Artigo: Idoso. Doença Cardíaca e Comorbidades
 
 Doença: Alzheimer
 
-![](http://imgs.jusbrasil.com/publications/noticias/images/mal-de-alzheimer1-jpg)
+![](http://imgs.jusbrasil.com/publications/noticias/images/mal-de-alzheimer1-jpg.jpg)
