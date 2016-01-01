@@ -22,3 +22,5 @@ Artigo: Tendências da mortalidade entre idosos brasileiros (1980 - 2000)
 
 Artigo: Idoso. Doença Cardíaca e Comorbidades
 ![](http://www.scielo.br/img/fbpe/abc/v79n6/13766q1.gif)
+
+Doença: Alzheimer
