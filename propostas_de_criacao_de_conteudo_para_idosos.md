@@ -10,7 +10,11 @@ produtos campeões de vendas
 Aplicativos: para tomar rempedio, monitorar ativiadades, agendamento de consultas ao médico, 
 
 
-Instituições
+Instituições Médicas:
+
+Instituições Púlbicas:
+
+Instituições Privadas:
 
 
 
